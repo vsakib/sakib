@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "资料分析/03速算技巧.md",
+                "file": "政治理论/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03速算技巧"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "资料分析/03速算技巧.md",
+                "file": "政治理论/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "03速算技巧 的反向链接列表"
+              "title": "index 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "资料分析/03速算技巧.md",
+                "file": "政治理论/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "03速算技巧 的出链列表"
+              "title": "index 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "资料分析/03速算技巧.md",
+                "file": "政治理论/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "03速算技巧 的大纲"
+              "title": "index 的大纲"
             }
           }
         ]
@@ -170,8 +170,10 @@
   },
   "active": "2c6db4fd5a637432",
   "lastOpenFiles": [
-    "判断推理/图形推理/01位置规律.md",
+    "public/CNAME",
+    "public/新建文本文档.txt",
     "资料分析/03速算技巧.md",
+    "判断推理/图形推理/01位置规律.md",
     "资料分析/02结构阅读法.md"
   ]
 }
