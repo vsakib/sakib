@@ -4,7 +4,7 @@ import { set_sidebar } from "../utils/auto-gen-sidebar.mjs";	// 改成自己的�
 import mark from 'markdown-it-mark'
 
 export default defineConfig({
-    base:"/sakib/",
+ //   base:"/sakib/",
     markdown: {
         config: (md) => {
             md.use(mark)
