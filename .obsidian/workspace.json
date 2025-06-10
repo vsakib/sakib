@@ -163,6 +163,8 @@
   },
   "active": "5465348ff46f0516",
   "lastOpenFiles": [
+    "数量关系/数学运算/解题思想/逆向推理.md~",
+    "node_modules/ccount/index.js",
     "判断推理/02思维导图.md",
     "判断推理/01定义判断.md",
     "判断推理/定义判断.md",
@@ -176,7 +178,6 @@
     "node_modules/shiki/dist/types/wasm-dynamic.d.mts",
     "node_modules/shiki/dist/types/index.d.d.mts",
     "node_modules/shiki/dist/types",
-    "node_modules/shiki/dist/bundle-full.d.mts",
     "资料分析/11思维导图.md",
     "资料分析/js-note.md",
     "node_modules/mathjax-full/README.md",
@@ -198,7 +199,6 @@
     "node_modules/undici/docs/docs/best-practices/proxy.md",
     "node_modules/undici/docs/docs/best-practices/mocking-request.md",
     "node_modules/undici/docs/docs/api/Util.md",
-    "node_modules/undici/docs/docs/api/RetryHandler.md",
-    "node_modules/undici/docs/docs/best-practices/client-certificate.md"
+    "node_modules/undici/docs/docs/api/RetryHandler.md"
   ]
 }
