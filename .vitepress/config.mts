@@ -2,6 +2,7 @@ import {defineConfig} from 'vitepress'
 import {set_sidebar} from "../utils/auto-gen-sidebar.mjs";	// 改成自己的路径
 // https://vitepress.dev/reference/site-config
 import mark from 'markdown-it-mark'
+import readingTime from 'reading-time'
 
 export default defineConfig({
     //   base:"/sakib/",
